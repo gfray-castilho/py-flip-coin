@@ -1,4 +1,3 @@
-import matplotlib
 import random
 
 cara_coroa =["cara", "coroa"]
