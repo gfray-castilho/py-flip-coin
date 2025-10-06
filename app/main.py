@@ -1,8 +1,8 @@
 import random
 
-cara_coroa =["cara", "coroa"]
+cara_coroa = ["cara", "coroa"]
 trials = 10000
-qtd_caras ={0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0}
+qtd_caras = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0}
 
 for i in range(trials):
     cara = 0
