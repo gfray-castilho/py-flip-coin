@@ -1,7 +1,7 @@
 import random
 
 
-def flip_coin(qtd_caras: dict) -> dict:
+def flip_coin() -> dict:
     cara_coroa = ["cara", "coroa"]
     trials = 10000
     qtd_caras = {0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0}
